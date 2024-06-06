@@ -13,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -77,6 +78,26 @@ public class BaseTest {
 			
 			return data;
 					
+		}
+		
+		
+		@Test
+		public void PlayWrightAutomation() {
+			
+			System.out.println("We should learn playwright side by side");
+		}
+		
+		
+		@Test
+		public void SeleniumAutomation() {
+			
+			System.out.println("Selenium used for Automating Web Browsers");
+		}
+		
+		@Test
+		public void AgileWorks() {
+			
+			System.out.println("Agile framework is getting adopted by every company");
 		}
 
 	
