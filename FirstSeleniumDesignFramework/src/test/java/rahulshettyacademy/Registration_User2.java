@@ -54,6 +54,8 @@ public class Registration_User2 {
 		
 		System.out.println("It was an easy interview to crack as I have prepared well for that one");
 		
+		System.out.println("Always wake up early to live the life you always desire of ");
+		
 		
 		
 	}

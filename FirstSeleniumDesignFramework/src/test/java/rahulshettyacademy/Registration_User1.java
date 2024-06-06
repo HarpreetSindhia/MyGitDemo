@@ -58,6 +58,18 @@ public class Registration_User1 {
 		
 		System.out.println("Project updated till now");
 		
+		System.out.println("Selenium Practice");
+		
+		System.out.println("TestNG Practice");
+		
+		System.out.println("WebDriver Manager");
+		
+		System.out.println("Maven Practice");
+		
+		System.out.println("Jenkins Practice");
+		
+		System.out.println("Command Prompt");
+		
 		
 		
 		
