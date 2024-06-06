@@ -99,6 +99,22 @@ public class BaseTest {
 			
 			System.out.println("Agile framework is getting adopted by every company");
 		}
+		
+		@Test
+		public void SeleniumWithJava() {
+			
+			System.out.println("Core Java needs to be learnt before jumping into Selenium");
+		}
+		
+		@Test
+		public void CoreJavaBasics() {
+			
+			System.out.println("Jenkins must be known for running the tests from Jenkins continuous integration tool");
+			
+			
+			
+		}
+	
 
 	
 	
