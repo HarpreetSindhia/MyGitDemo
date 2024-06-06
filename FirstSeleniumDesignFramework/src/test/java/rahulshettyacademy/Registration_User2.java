@@ -50,8 +50,9 @@ public class Registration_User2 {
 		
 		driver.findElement(By.cssSelector("input[value='Register']")).click();
 		
+		System.out.println("My Selenium Interview Passed and Selected");
 		
-		
+		System.out.println("It was an easy interview to crack as I have prepared well for that one");
 		
 		
 		

@@ -50,6 +50,14 @@ public class Registration_User1 {
 		
 		driver.findElement(By.cssSelector("input[value='Register']")).click();
 		
+		System.out.println("PlayWright with JavaScript");
+		
+		System.out.println("API Automation for Mobile Testing");
+		
+		System.out.println("Selenium Functional Testing");
+		
+		System.out.println("Project updated till now");
+		
 		
 		
 		
